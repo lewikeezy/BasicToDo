@@ -1,0 +1,15 @@
+/home/lewikeezy/Desktop/BasicToDo/bin/Debug/net6.0/BasicToDo
+/home/lewikeezy/Desktop/BasicToDo/bin/Debug/net6.0/BasicToDo.deps.json
+/home/lewikeezy/Desktop/BasicToDo/bin/Debug/net6.0/BasicToDo.runtimeconfig.json
+/home/lewikeezy/Desktop/BasicToDo/bin/Debug/net6.0/BasicToDo.dll
+/home/lewikeezy/Desktop/BasicToDo/bin/Debug/net6.0/ref/BasicToDo.dll
+/home/lewikeezy/Desktop/BasicToDo/bin/Debug/net6.0/BasicToDo.pdb
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.csproj.AssemblyReference.cache
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.GeneratedMSBuildEditorConfig.editorconfig
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.AssemblyInfoInputs.cache
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.AssemblyInfo.cs
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.csproj.CoreCompileInputs.cache
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.dll
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/ref/BasicToDo.dll
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.pdb
+/home/lewikeezy/Desktop/BasicToDo/obj/Debug/net6.0/BasicToDo.genruntimeconfig.cache
